@@ -1,6 +1,6 @@
 {
-  "versionIOS": 13,
-  "versionAndroid": 13,
+  "versionIOS": "13",
+  "versionAndroid": "13",
   "promoPublicCode": "ye3TFvPZckSkfEJh7ca3KAIiDzyutq7U2yKu6aCzCesA"
   "tutorialVideoDriftWars":"https://firebasestorage.googleapis.com/v0/b/vgs-online-drift.appspot.com/o/TutorialVideos%2FDrift%20Wars.mp4?alt=media&token=2358654e-c535-4f15-95a8-db6b9ff7f773",
   "tutorialVideoStuntRush":"https://firebasestorage.googleapis.com/v0/b/vgs-online-drift.appspot.com/o/TutorialVideos%2FStunt%20Rush.mp4?alt=media&token=8c76f778-7197-4696-9ae9-ca718186705a",
