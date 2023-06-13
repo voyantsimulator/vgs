@@ -1,6 +1,6 @@
 {
   "isTestingIOS": true,
-  "isTestingAndroid": false,
+  "isTestingAndroid": true,
   "versionIOS": 13,
   "versionAndroid": 13,
   "promoPublicCode": "6480743e8f40bb7d84085e18",
