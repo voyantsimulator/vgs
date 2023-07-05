@@ -1,5 +1,5 @@
 {
-  "isTestingIOS": true,
+  "isTestingIOS": false,
   "isTestingAndroid": true,
   "versionIOS": 13,
   "versionAndroid": 13,
